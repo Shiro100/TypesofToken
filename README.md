@@ -54,3 +54,4 @@ Allows a token holder to burn their own tokens, reducing the total supply.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
