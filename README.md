@@ -47,3 +47,10 @@ Allows a token holder to burn their own tokens, reducing the total supply.
 ### Events
 - `TokenMinted(address indexed recipient, uint256 amount)`: Emitted when tokens are minted.
 - `TokenBurned(address indexed burner, uint256 amount)`: Emitted when tokens are burned.
+
+## Authors
+- **Metacrafter**
+- **Charles_shiro**
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
